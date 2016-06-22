@@ -32,7 +32,8 @@ This is very Simple, just replace the link in to your new Href.
 
 ## License
 
-Bootstrap by Twitter v2.3.1<br>
+Bootstrap by Twitter<br> 
+Version 2.3.1<br>
 Licensed under the Apache License v2.0<br>
 www.apache.org/licenses/LICENSE-2.0<br>
 
