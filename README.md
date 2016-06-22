@@ -32,11 +32,11 @@ This is very Simple, just replace the link in to your new Href.
 
 ## License
 
-Bootstrap by Twitter v2.3.1
-Licensed under the Apache License v2.0
-www.apache.org/licenses/LICENSE-2.0
+Bootstrap by Twitter v2.3.1<br>
+Licensed under the Apache License v2.0<br>
+www.apache.org/licenses/LICENSE-2.0<br>
 
-Jqtweet by Sea of Clouds and Modified by Web3Canvas
-Version: 1.5
-License: GNU General Public License v2 or later
-License URI: www.gnu.org/licenses/gpl-2.0.html
+Jqtweet by Sea of Clouds and Modified by Web3Canvas<br>
+Version: 1.5<br>
+License: GNU General Public License v2 or later<br>
+License URI: www.gnu.org/licenses/gpl-2.0.html<br>
