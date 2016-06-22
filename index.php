@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Shhh | Responsive Landingpage</title>
+<title>Shhh | Responsive Landingpage | Demo</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta name="description" content="RCSL | Responsive coming soon Landingpage">
-<meta name="keywords" content="responsive, landingpage, website, template, bootstrap, html, css, javascript, git, github">
+<meta name="keywords" content="responsive, landingpage, website, template, bootstrap, html, css, javascript, git, github, demo">
 <meta name="robots" content="index,follow">
 <meta name="robots" content="noarchive">
 <meta http-equiv="pragma" content="no-cache">
@@ -18,8 +18,8 @@
 <meta name="copyright" content="open-source">
 <meta name="date" content="2016-06-10T00:00:37+00:00">
 <meta name="content-language" content="en">
-<meta name="page-topic" content="landingpage">
-<meta name="page-type" content="wwebsite">
+<meta name="page-topic" content="demo-landingpage">
+<meta name="page-type" content="website">
 <meta name="audience" content="all">
 <meta name="revisit-after" content="30 days">
 
