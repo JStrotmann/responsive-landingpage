@@ -17,7 +17,7 @@ Just upload the files. All of the information are entitled with comment for easy
 ## Modifications
 
 HOW TO CHANGE LOGO
-You can find <h1> tag in HTML, there you can change the text or insery your Logo.
+You can find tags in HTML, there you can change the text or insery your Logo.
 
 HOW TO CHANGE IPHONE IMAGE
 You can replace the images in "images" folder. You can also adjust HTML or CSS if needed
@@ -28,17 +28,15 @@ Now its targeted to Feedburner, if you have any other provider like mailchimp or
 Please note that the class name are not replaces, otherwise it will may break the design.
 
 HOW TO CHANGE LINK FROM SOCIAL MEDIA ICONS
-This is very Simple, just replace the link in <a href="www.web3canvas.com"> to your new Href like <a href="www.facebook.com/myurl">.
+This is very Simple, just replace the link in to your new Href.
 
 ## License
-
-I've used the following resources.
 
  * Bootstrap by Twitter v2.3.1
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0
 
-Jqtweet by Sea of Clouds and Modified by Web3Canvas
-Version: 1.5
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ *Jqtweet by Sea of Clouds and Modified by Web3Canvas
+ *Version: 1.5
+ *License: GNU General Public License v2 or later
+ *License URI: http://www.gnu.org/licenses/gpl-2.0.html
