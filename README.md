@@ -8,7 +8,7 @@ You can visit the responsive landingpage here: http://roseparker.de
 
 ## Motivation
 
-I was searching for such an template lots of months. Therefore... I created one. This bootstrap is a responsive layout with single column based on Bootstrap 2.3.1.
+I was searching for an template for months. Therefore... I want to build one. This bootstrap is a responsive layout with single column based on Bootstrap 2.3.1.
 
 ## Installation
 
