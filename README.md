@@ -4,7 +4,7 @@ Responsive Landingpage
 
 ## Website
 
-You can visit the responsive landingpage here: http://roseparker.de
+You can visit the responsive landingpage here: http://buff.ly/29cBCpj
 
 ## Motivation
 
