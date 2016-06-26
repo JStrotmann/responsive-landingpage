@@ -47,11 +47,11 @@
 
     <!--==============Logo=================-->
 
-    <h1>Shhh - Demo</h1>
+    <h1>Demo</h1>
 
     <!--==============CAPTION=================-->
 
-    <p>The best of social</p>
+    <p>Responsive Landingpage</p>
 
     <!--==============COUNTDOWN TIMER=================-->
 
