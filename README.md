@@ -4,7 +4,7 @@ Responsive Landingpage
 
 ## Website
 
-You can visit the responsive landingpage here: http://www.monsters-university.com/
+You can visit the responsive landingpage (just a demo) here: http://www.monsters-university.com/
 
 ## Motivation
 
