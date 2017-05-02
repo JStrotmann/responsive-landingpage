@@ -96,8 +96,8 @@
   <div class="row-fluid">
     <div class="span8 offset2 footer">
       <p class="socialicons">
-      <a href="https://www.facebook.com" target="_new" class="icons facebook"></a>
-      <a href="https://twitter.com" target="_new" class="icons twitter"></a>
+      <a href="https://www.facebook.com/Plesk/" target="_new" class="icons facebook"></a>
+      <a href="https://twitter.com/plesk" target="_new" class="icons twitter"></a>
 
       <p class="footertext"> copyright &copy; 2017 Monsters University</p>
     </div>
