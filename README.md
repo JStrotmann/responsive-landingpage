@@ -19,7 +19,7 @@ Just upload the files. All of the information are entitled with comment for easy
 HOW TO CHANGE LOGO<br>
 You can find tags in HTML, there you can change the text or insery your Logo.
 
-HOW TO CHANGE IPHONE IMAGE<br>
+HOW TO CHANGE THE IMAGE<br>
 You can replace the images in "images" folder. You can also adjust HTML or CSS if needed
 
 HOW TO CHANGE SUBSCRIPTION TARGET<br>
