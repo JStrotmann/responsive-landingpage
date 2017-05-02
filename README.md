@@ -4,11 +4,11 @@ Responsive Landingpage
 
 ## Website
 
-You can visit the responsive landingpage here: http://buff.ly/29cBCpj
+You can visit the responsive landingpage here: http://www.monsters-university.com/
 
 ## Motivation
 
-I was searching for an template for months. Therefore... I want to build one. This bootstrap is a responsive layout with single column based on Bootstrap 2.3.1.
+I was searching for a landingpage template for months. Therefore... I build this one. This bootstrap is a responsive layout with single column based on Bootstrap 2.3.1.
 
 ## Installation
 
