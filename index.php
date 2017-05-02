@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Shhh | Responsive Landingpage |test</title>
+<title>Monsters University | Comming soon!</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta name="description" content="RCSL | Responsive coming soon Landingpage">
@@ -47,11 +47,11 @@
 
     <!--==============Logo=================-->
 
-    <h1>Test</h1>
+    <h1>Monsters University</h1>
 
     <!--==============CAPTION=================-->
 
-    <p>Responsive Landingpage</p>
+    <p>Comming soon!</p>
 
     <!--==============COUNTDOWN TIMER=================-->
 
@@ -72,7 +72,7 @@
 
   <div class="row-fluid">
     <div class="span10 offset1 subscribe">
-       <h2>Want to try Shhh?</h2>
+       <h2>Do you love Monsters?</h2>
       <h4>Leave your email and we'll put you on our invite list.</h4>
       <form class="form-search"  action="http://feedburner.google.com/fb/a/mailverify?uri=pinshare/feedrss2" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=pinshare/feedrss2;?php echo $yam_feedburner; ?&gt;', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
         <input class="input-xxlarge" name="email" type="email" placeholder="Enter your email" required="required">
@@ -99,7 +99,7 @@
       <a href="https://www.facebook.com" target="_new" class="icons facebook"></a>
       <a href="https://twitter.com" target="_new" class="icons twitter"></a>
 
-      <p class="footertext"> copyright &copy; 2016 Shhh</p>
+      <p class="footertext"> copyright &copy; 2017 Monsters University</p>
     </div>
   </div>
 </div>
